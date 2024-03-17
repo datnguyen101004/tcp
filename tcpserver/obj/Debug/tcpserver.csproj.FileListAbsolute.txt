@@ -1,0 +1,10 @@
+E:\HK2_2024\LT_network\tcpserver\bin\Debug\tcpserver.exe.config
+E:\HK2_2024\LT_network\tcpserver\bin\Debug\tcpserver.exe
+E:\HK2_2024\LT_network\tcpserver\bin\Debug\tcpserver.pdb
+E:\HK2_2024\LT_network\tcpserver\obj\Debug\tcpserver.csproj.AssemblyReference.cache
+E:\HK2_2024\LT_network\tcpserver\obj\Debug\tcpserver.Form1.resources
+E:\HK2_2024\LT_network\tcpserver\obj\Debug\tcpserver.Properties.Resources.resources
+E:\HK2_2024\LT_network\tcpserver\obj\Debug\tcpserver.csproj.GenerateResource.cache
+E:\HK2_2024\LT_network\tcpserver\obj\Debug\tcpserver.csproj.CoreCompileInputs.cache
+E:\HK2_2024\LT_network\tcpserver\obj\Debug\tcpserver.exe
+E:\HK2_2024\LT_network\tcpserver\obj\Debug\tcpserver.pdb

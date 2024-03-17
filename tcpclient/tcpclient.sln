@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcpclient", "tcpclient.csproj", "{2E377C6E-4249-446E-9CC5-60E5A1E120D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tcpserver", "..\tcpserver\tcpserver.csproj", "{CF765F1E-153C-423A-99D6-05C36013C764}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E377C6E-4249-446E-9CC5-60E5A1E120D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E377C6E-4249-446E-9CC5-60E5A1E120D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E377C6E-4249-446E-9CC5-60E5A1E120D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E377C6E-4249-446E-9CC5-60E5A1E120D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF765F1E-153C-423A-99D6-05C36013C764}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF765F1E-153C-423A-99D6-05C36013C764}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF765F1E-153C-423A-99D6-05C36013C764}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF765F1E-153C-423A-99D6-05C36013C764}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A38B079-BD4F-4355-AA79-70C5E34D69C4}
+	EndGlobalSection
+EndGlobal
